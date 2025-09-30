@@ -1,0 +1,2 @@
+# flavorgraph
+recipes navigator
